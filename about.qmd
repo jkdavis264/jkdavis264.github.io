@@ -1,5 +1,11 @@
 ---
-title: "About"
+title: "Joseph Davis "
 ---
 
-About this site
+![Swiss Alps](pics\photo.jpg)
+
+Hello welcome to my website! My name is Joseph Davis and I am a data scientist. I have alaways had a passion for learing and love solving complicated problems. Being a data scientist allows to consistily grow as a person and be challenged everyday. 
+
+I completed my M.S degree in statistics at Miami  University of Ohio and my B.S in economics from OSU. From there I have worked on a variety of projects from creating databases and data pipelines, creating software applications with interactive analytics and visuals, to making models and forecasting. 
+
+Outside of being a data scientst I love spendind my time with family, friends, and seeing the world. My favorite hobbies include snowboarding, rock climbing, biking, board games and reading. 

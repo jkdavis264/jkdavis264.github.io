@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "website"
+  title: "Joseph Davis"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - projects.qmd
 
 format:
   html:

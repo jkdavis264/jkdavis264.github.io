@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Joseph Davis",
     "section": "",
-    "text": "About this site"
+    "text": "Me\n\n\nHello welcome to my website! My name is Joseph Davis and I am a data scientist. I have alaways had a passion for learing and love solving complicated problems. Being a data scientist allows to consistily grow as a person and be challenged everyday.\nI completed my M.S degree in statistics at Miami University of Ohio and my B.S in economics from OSU. From there I have worked on a variety of projects from creating databases and data pipelines, creating software applications with interactive analytics and visuals, to making models and forecasting.\nOutside of being a data scientst I love spendind my time with family, friends, and seeing the world. My favorite hobbies include snowboarding, rock climbing, biking, board games and reading."
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "Joseph Davis",
     "section": "",
     "text": "Hello Welcome to my website"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "About this site"
   }
 ]
