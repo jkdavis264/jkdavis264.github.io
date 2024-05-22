@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Joseph Davis",
     "section": "",
-    "text": "Me\n\n\nHello welcome to my website! My name is Joseph Davis and I am a data scientist. I have alaways had a passion for learing and love solving complicated problems. Being a data scientist allows to consistily grow as a person and be challenged everyday.\nI completed my M.S degree in statistics at Miami University of Ohio and my B.S in economics from OSU. From there I have worked on a variety of projects from creating databases and data pipelines, creating software applications with interactive analytics and visuals, to making models and forecasting.\nOutside of being a data scientst I love spendind my time with family, friends, and seeing the world. My favorite hobbies include snowboarding, rock climbing, biking, board games and reading."
+    "text": "Swiss Alps"
   },
   {
     "objectID": "index.html",
@@ -19,5 +19,33 @@
     "title": "Projects",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "about.html#introduction",
+    "href": "about.html#introduction",
+    "title": "Joseph Davis",
+    "section": "Introduction",
+    "text": "Introduction\nHello, welcome to my website! My name is Joseph Davis and I am a data scientist. I have always had a passion for learning and love solving complicated problems. Being a data scientist allows me to consistently grow as a person and be challenged everyday. In this website you have the opportunity to learn more about me as well as see some personal projects I have been worked on."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Joseph Davis",
+    "section": "Education",
+    "text": "Education\nI completed my M.S degree in statistics at Miami University of Ohio and my B.S in economics from OSU. From there I have worked on a variety of projects from creating databases and data pipelines, creating software applications with interactive analytics and visuals, to making models and forecasting."
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "Joseph Davis",
+    "section": "Hobbies",
+    "text": "Hobbies\nOutside of being a data scientist I love spending my time with family, friends, and seeing the world. My favorite hobbies include snowboarding, rock climbing, biking, board games and reading."
+  },
+  {
+    "objectID": "about.html#resume-and-linkedin",
+    "href": "about.html#resume-and-linkedin",
+    "title": "Joseph Davis",
+    "section": "Resume and linkedIn",
+    "text": "Resume and linkedIn\nhttps://www.linkedin.com/in/joseph-davis-statistics/\nhttps://github.com/jkdavis264/jkdavis264.github.io/tree/main/files/Resume_JD.pdf"
   }
 ]
