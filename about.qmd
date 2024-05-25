@@ -16,8 +16,14 @@ I completed my M.S degree in statistics at Miami  University of Ohio and my B.S 
 
 Outside of being a data scientist I love spending my time with family, friends, and seeing the world. My favorite hobbies include snowboarding, rock climbing, biking, board games and reading.
 
-## Resume and linkedIn
+## Awards
 
-https://www.linkedin.com/in/joseph-davis-statistics/
+While at American Electric Power I received the ROI Rockstar award from SAS for their customer recognition awards. This was due to the financial engineering of in house software for interest rate derivatives based upon the new SOFR rate.
 
-https://github.com/jkdavis264/jkdavis264.github.io/tree/main/files/Resume_JD.pdf
+Learn more about the project here : [SAS ROI](https://communities.sas.com/t5/SAS-Customer-Recognition-Awards/1st-Place-Winner-2024-Customer-Awards-American-Electric-Power/ba-p/908362)
+
+## Resume and LinkedIn
+
+[Resume](https://github.com/jkdavis264/jkdavis264.github.io/tree/main/files/Resume_JD.pdf)
+
+[LinkedIn](https://www.linkedin.com/in/joseph-davis-statistics/)

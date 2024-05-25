@@ -45,7 +45,14 @@
     "objectID": "about.html#resume-and-linkedin",
     "href": "about.html#resume-and-linkedin",
     "title": "Joseph Davis",
-    "section": "Resume and linkedIn",
-    "text": "Resume and linkedIn\nhttps://www.linkedin.com/in/joseph-davis-statistics/\nhttps://github.com/jkdavis264/jkdavis264.github.io/tree/main/files/Resume_JD.pdf"
+    "section": "Resume and LinkedIn",
+    "text": "Resume and LinkedIn\nResume\nLinkedIn"
+  },
+  {
+    "objectID": "about.html#awards",
+    "href": "about.html#awards",
+    "title": "Joseph Davis",
+    "section": "Awards",
+    "text": "Awards\nWhile at American Electric Power I received the ROI Rockstar award from SAS for their customer recognition awards. This was due to the financial engineering of in house software for interest rate derivatives based upon the new SOFR rate.\nLearn more about the project here : SAS ROI"
   }
 ]
