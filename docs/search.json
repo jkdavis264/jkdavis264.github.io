@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "PJM Load Forecasting :\nIn this project we apply forecasting models to forecast PJM load. While this is just an intro as of right now. The goal of this project will expand into projecting load forecasting and comparing it against PJM’s forecast. As of right now it applys inital models and predicts PJM load.\nLoad Forecasting\n\n\nPoker Simulation\nIn this project I will be developing simulations into finding the odds of a hand given conditions of players and rivers. In next steps after version 1, will be developing game theory model and learning network to help facilitate best strategies given hand conditions of a player.\nPoker Python"
   },
   {
     "objectID": "about.html#introduction",
